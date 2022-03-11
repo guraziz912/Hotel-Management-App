@@ -1,0 +1,9 @@
+.counter {
+  padding: 0px 1rem;
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgb(0 0 0 / 13%) 0px 1px 4px 0px;
+  border-radius: 4rem;
+  padding-top: 5px;
+  display: flex;
+  width: 6rem;
+}

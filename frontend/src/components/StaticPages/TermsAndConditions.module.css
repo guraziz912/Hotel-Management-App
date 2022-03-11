@@ -1,0 +1,11 @@
+.termsContainer {
+  padding: 3rem;
+}
+
+.termsHeader {
+  font-size: xx-large;
+}
+.termsContent {
+  padding-top: 1.5rem;
+  width: 60rem;
+}

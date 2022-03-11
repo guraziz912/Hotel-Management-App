@@ -1,0 +1,15 @@
+.cities {
+  display: grid;
+  grid-gap: 12rem;
+  grid-template-columns: repeat(5, 10rem);
+  cursor: pointer;
+}
+
+.cityList {
+  margin-top: 6rem;
+  margin-left: 5rem;
+}
+
+.cityList label {
+  font-size: xx-large;
+}

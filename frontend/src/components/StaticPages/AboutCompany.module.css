@@ -1,0 +1,11 @@
+.aboutContainer {
+  padding: 3rem;
+}
+
+.aboutHeader {
+  font-size: xx-large;
+}
+.aboutContent {
+  padding-top: 1.5rem;
+  width: 60rem;
+}

@@ -1,0 +1,85 @@
+.detailTabs {
+  padding-left: 17rem;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  position: sticky;
+  top: 8.6rem;
+  z-index: 5;
+  box-shadow: rgb(0 0 0 / 25%) 0px 1px 5px;
+  font-size: x-large;
+}
+.pricingColumn {
+  padding-top: 15rem;
+}
+.pricing {
+  height: 100px;
+  width: 200px;
+  border-radius: 6%;
+  background-color: rgb(242, 194, 105);
+  padding-left: 0.54rem;
+}
+.pricing span {
+  font-size: x-small;
+}
+.amenities li {
+  background-color: #7dea7d;
+  width: fit-content;
+  padding: 1rem;
+  border-radius: 12px;
+  list-style-type: none;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
+
+.hotelPolicies {
+  flex-flow: column wrap;
+  padding: 2rem;
+  width: 100%;
+  list-style-type: none;
+}
+.hotelImage {
+  width: 500px;
+  border-radius: 28px;
+}
+.tabColumn {
+  margin-left: -15.4rem;
+}
+.userReviewHeader {
+  width: 80rem;
+  border-bottom: 0.1rem solid rgb(225, 231, 238);
+  padding: 2rem 2.5rem;
+  margin-top: 0.5rem;
+  background-color: aliceblue;
+  border-top-left-radius: 2.2rem;
+  border-top-right-radius: 2.2rem;
+}
+.userReviewContainer {
+  background-color: aliceblue;
+  padding: 0.5rem;
+  width: 80rem;
+  margin-left: 0rem;
+  overflow-y: scroll;
+}
+.popularAmenities li {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: -2rem;
+}
+.popularAmenities li::before {
+  content: '✓';
+}
+
+.popularAmenitiesContainer {
+  border: 0.1rem solid rgb(198 224 253);
+  padding: 0.5rem;
+  border-bottom-left-radius: 1.2rem;
+  border-bottom-right-radius: 1.2rem;
+}
+.popularAmenitiesHeader {
+  padding: 1.4rem 1rem;
+  border: 0.1rem solid rgb(198 224 253);
+  border-top-left-radius: 1.2rem;
+  border-top-right-radius: 1.2rem;
+}

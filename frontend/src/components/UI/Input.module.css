@@ -1,0 +1,8 @@
+.inputBox {
+  display: inline-grid;
+}
+
+.errorMessage {
+  font-size: small;
+  color: red;
+}

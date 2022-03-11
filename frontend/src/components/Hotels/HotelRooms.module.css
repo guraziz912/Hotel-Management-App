@@ -1,0 +1,24 @@
+.roomImage {
+  display: flex;
+  height: 14rem;
+  width: 20.5rem;
+  object-fit: fill;
+  border-radius: 1.2rem;
+  margin-top: 2rem;
+}
+.tableCol td {
+  padding: 1rem 2rem;
+  border-right: 0.1rem solid rgb(232, 243, 255);
+  width: 25%;
+  font-size: large;
+}
+
+.roomOptions {
+  justify-content: space-between;
+  font-size: 25px;
+  color: rgb(0, 179, 24);
+}
+
+.button {
+  margin-top: 10rem;
+}

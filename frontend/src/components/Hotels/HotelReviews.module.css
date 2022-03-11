@@ -1,0 +1,24 @@
+.reviewCard {
+  padding: 2rem;
+  border-radius: 0.6rem;
+  border: 0.1rem solid rgb(203 228 255);
+  margin-bottom: 15px;
+}
+.userRatings {
+  float: right;
+  display: inline-block;
+  padding: 0.4rem;
+  border-radius: 0.4rem;
+  background-color: rgb(0, 93, 47);
+  color: white;
+  font-size: 18px;
+}
+.userName {
+  margin-left: -3rem;
+  font-size: 1.6rem;
+}
+
+.userReview {
+  margin-left: -3rem;
+  font-size: 19px;
+}
